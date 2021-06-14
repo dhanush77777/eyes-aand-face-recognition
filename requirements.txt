@@ -8,7 +8,6 @@ enum34==1.1.6
 eventlet==0.20.0
 Flask==0.12.2
 Flask-SocketIO==2.9.1
-gevent==1.2.2
 gevent-websocket==0.10.1
 olefile==0.44
 python-engineio==1.7.0
